@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tableau Dashboard Full Screen</title>
+</head>
+<body>
+<div id="tableauDashboard" style="width:100%; height:100vh;">
+    <iframe src="https://public.tableau.com/views/BeBop/routine?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" 
+            width="100%" 
+            height="100%" 
+            frameborder="0">
+    </iframe>
+</div>
+</body>
+</html>
